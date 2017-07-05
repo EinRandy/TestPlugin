@@ -1,0 +1,4 @@
+name: TestPlugin
+author: EinRandy
+version: 1.0
+main: com.einrandy.testplugin.main
